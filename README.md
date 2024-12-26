@@ -15,13 +15,13 @@ Simply run `Shibori Agent`, and send it a prompt.
 
 ## Why?
 
-AI Agebts are becoming a technological norm and should be a tool in any software professional's tool belt.
+AI Agents are becoming a technological norm and should be a tool in any software professional's tool belt.
 
 
 ### Why `THIS` agent?
 
-AI agents are awesome technologically, but general-purpose agents rarely work as promised for the most part. They tend to error quite often. Mostly due to tasks theat require the right environment for such execution.
-If the agent gets stuck on a task, this can become an issue.
+AI agents are awesome technologically, but general-purpose agents rarely work as promised for the most part. They tend to error quite often. Mostly due to tasks that require the right environment for such execution.
+If the agent gets stuck on a task, this can become an issue where failure can be absolute.
 
 
 ### What this project is not
